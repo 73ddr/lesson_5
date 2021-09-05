@@ -1,0 +1,4 @@
+Информатика: 36(lecture) 72(practice) 54(lab)
+Математика: 72(lecture) -  54(lab)
+Физкультура: -  80(practice) -
+
